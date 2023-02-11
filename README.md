@@ -6,4 +6,4 @@ Todas as informações contidas neste documento foram retiradas do “Curso prá
 
 Este documento tem como objetivo auxiliar a compreensão das aulas e servir como material de apoio, não substituindo de forma alguma as aulas. Este material não tem objetivo algum de obter ganhos financeiros com o mesmo.
 
-Endereço para o material original: [Curso prático de SEO – Módulo 1 – Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90)
+Endereço para o material original: [Curso Prático de SEO – Módulo 1](https://www.cursoemvideo.com/curso/curso-pratico-de-seo-modulo-01/)
